@@ -5,7 +5,7 @@ The schematic should be the same as for the original board. Parts should be corr
 
 **Warning:** The reconstructed layout has not been manufactured or tested. Weird things can be found on this allegedly $25-worth Chinese board.
 
-<img src="./neje-kz-board-original-photo.png" alt="Original board photo" height="250" /> <img src="./neje-kz-board-original-top_600dpi.png" alt="Original board - top scan" height="250" /> <img src="./neje-kz-board-original-bottom_600dpi.png" alt="Original board - bottom scan" height="250" />
+<img src="./neje-kz-board-original-photo.png" alt="Original board photo" height="220" /> <img src="./neje-kz-board-original-top_600dpi.png" alt="Original board - top scan" height="220" /> <img src="./neje-kz-board-original-bottom_600dpi.png" alt="Original board - bottom scan" height="220" />
 
 ## BOM
 | Qty | Part               | Value          | Package      | Additional info                |
